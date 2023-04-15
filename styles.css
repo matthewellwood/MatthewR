@@ -1,0 +1,159 @@
+.answer{
+  text-align: center;
+  color: black;
+  font-size: 32px;
+}
+.background1 {
+    background-image: url("./images/ZcVzSn.jpeg");
+    color: blue;
+    text-align: center;
+  }
+.background2 {
+  background-image: url("./images/Outer-Hebridies/Hebridean-Islands.jpg");
+  color: white;
+  text: bold;
+  text-align: center;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.background3 {
+  background-image: url("./images/Outer-Hebridies/motorhome-travel.jpg");
+  color: blue;
+  text-align: center;
+}
+.background4 {
+  background-image: url("./images/Hobbies-and-Interests pic.jpg");
+  color: blue;
+  text-align: center;
+  background-position: center;
+  background-size: cover;
+}
+.bg1 {
+  background-image: url("./images/carry-on/CarryOnFilmPosters.jpg");
+  color: blue;
+  text-align: center;
+}
+
+.bg2 {
+  background-image: url("./images/carry-on/Carry-On-Faces-2.jpg");
+  color: blue;
+  text-align: center;
+  background-position: center;
+  background-size: cover;
+}
+
+.center {
+  margin: auto;
+  background-color: #1fd7e0;
+  width: 40%;
+  border: 6px solid blue;
+  padding: 30px;
+}
+h1,h2 {
+  margin: auto;
+  background-color: #1fd7e0;
+  width: 50%;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+h3 {
+  margin: auto;
+  background-color: #1fd7e0;
+  width: 60%;
+  color: white;
+  text-align: center;
+  padding: 15px;
+ }
+ h4 {
+  margin: auto;
+  background-color: #1fd7e0;
+  width: 40%;
+  color: white;
+  text-align: center;
+  padding: 15px;
+ }
+#id1 {
+  text-align: center;
+  top: 35%;
+  left: 74%;
+}
+
+.image {
+  float: left;
+  padding: 5px;
+  position: relative;
+  text-align: center;
+  color: white;
+}
+p {
+  text-align: center;
+  color: black;
+  text: bold;
+  font-size: 30px;
+  font-family: 'Brush Script MT', cursive;
+}
+.round {
+  position: absolute;
+  top: 250px;
+  right: 100px;
+  border-radius: 50%;
+  background: blue;
+}
+.rounded {
+  border-radius: 50%;
+  background: blue;
+  text: bold;
+  font-size: 25px;
+  color: white;
+}
+table {
+  text-align: center;
+}
+.underline{
+  text-decoration: underline;
+  text: bold;
+  font-size: 25px;
+}
+.heading {
+  text-decoration: underline;
+  text: bold;
+  font-size: 25px;
+  margin: auto;
+  background-color: #05427b;
+  width: 40%;
+  border: 6px solid blue;
+  padding: 30px;
+  color: white;
+}
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+ div.gallery:hover {
+  border: 5px solid #777;
+}
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+div.absolute {
+  position: absolute;
+  top: 160px;
+  right: 0;
+}
+#head {
+  text-align: center;
+  color: white;
+}
+th, td {
+  padding: 15px;
+}
