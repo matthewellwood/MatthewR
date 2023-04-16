@@ -9,7 +9,7 @@
     text-align: center;
   }
 .background2 {
-  background-image: url("./a-index/images/Outer-Hebridies/Hebridean-Islands.jpg");
+  background-image: url("./Hebridean-Islands.jpg");
   color: white;
   text: bold;
   text-align: center;
@@ -19,7 +19,7 @@
   background-size: cover;
 }
 .background3 {
-  background-image: url("./images/Outer-Hebridies/motorhome-travel.jpg");
+  background-image: url("./motorhome-travel.jpg");
   color: blue;
   text-align: center;
 }
